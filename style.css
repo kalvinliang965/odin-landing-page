@@ -5,7 +5,17 @@ html {
 body {
     margin: 0px;
     padding: 0px;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 100vh;
 }
+
+.info {
+    flex: 1 1 0;
+}
+
+
 
 .header, 
 .footer {
@@ -64,7 +74,7 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 96px;
+    padding-bottom: 96px;
 }
 
 .header nav .hero-right ul li a {
