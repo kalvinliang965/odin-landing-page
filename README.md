@@ -1,5 +1,22 @@
-# odin-landing-page
+# Flexbox Landing Page Project
 
+This project is a landing page created to practice and demonstrate the use of Flexbox. Flexbox allows for efficient and responsive layout design, particularly useful for creating complex layout with dynamic content.
+
+## Technologies Used
+
+-HTML
+-CSS(flexbox)
+
+## Features 
+
+-Responsive design for various screen sizse
+-Flexbox layout for easy alignment and distribution of elements
+
+## Usage
+
+1. Clone the repository.
+2. Open 'index.html' in your web browser to view the landing page.
+   
 ## Source: 
 
 ![Scenic View of a Mountain Range][https://images.pexels.com/photos/19562913/pexels-photo-19562913/free-photo-of-scenic-view-of-a-mountain-range.jpeg]
