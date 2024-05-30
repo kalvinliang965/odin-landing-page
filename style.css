@@ -11,8 +11,13 @@ body {
     height: 100vh;
 }
 
-.info {
-    flex: 1 1 0;
+.info,
+.quote-section {
+    flex: 0 1 0;
+}
+
+.info#first {
+    flex-grow: 1;
 }
 
 
